@@ -1,0 +1,108 @@
+#learning
+{
+ margin-top: 35%;
+}
+
+#skills
+{
+ margin-top: 5%;
+}
+
+#others
+{
+ margin-top: 13%;
+}
+
+.others
+{
+ position: absolute;
+ bottom: 0px;
+}
+
+#learning_panel
+{
+ width: 65%;
+ background-color: #F4F4F4;
+}
+
+#skills_panel
+{
+ width: 65%;
+ margin-left: 35%;
+ background-color: #F4F4F4;
+}
+
+#skills_aside
+{
+ width: 25%;
+ margin-right: 60%;
+ margin-left: 4%;
+ margin-top: -28%;
+ padding: 2px;
+}
+
+#others_panel
+{
+ width: 65%;
+ background-color: #F4F4F4;
+}
+
+#learning_aside
+{
+ width: 25%;
+ margin-left: 70%;
+ margin-top: -20%;
+ padding: 2px;
+}
+
+.navbar
+{
+  position: absolute;
+  top: 600px;
+}
+
+.banner
+{
+ position: absolute;
+ top: 0px;
+ z-index: 0;
+ width: 100%;
+ margin: auto;
+}
+
+.profil_pic
+{
+ position: absolute;
+ top: 300px;
+ right: 200px;
+}
+
+.social
+{
+  position: absolute;
+  top: 460px;
+  left: 70px;
+}
+
+.name_title
+{
+ position: absolute;
+ text-align: right;
+ margin-top: 390px;
+ margin-left: 1130px;
+ font-size: 250%;
+}
+
+.under_title
+{
+ position: absolute;
+ text-align: right;
+ margin-top: 440px;
+ margin-left: 1080px;
+ font-size: 150%;
+}
+
+*
+{
+ font-family: ‘Lucida Console’, Monaco, monospace;
+}
